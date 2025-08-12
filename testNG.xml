@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="DocumentExplorerSuite">
+    <test name="Document Explorer Verification">
+        <parameter name="IsMinified" value="False"/>
+        <classes>
+            <class name="com.example.tests.WorkflowApp"/>
+        </classes>
+    </test>
+</suite>
